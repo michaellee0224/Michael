@@ -1,0 +1,24 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1552204817275.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "94888144",
+    "id" : "293534C",
+    "lastKnownWriteTime" : 1552205371,
+    "last_content_update" : 1552205371570,
+    "path" : "~/GitHub/Michael/2019-03-10.Rmd",
+    "project_path" : "2019-03-10.Rmd",
+    "properties" : {
+        "chunk_output_type" : "inline",
+        "cursorPosition" : "6,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
